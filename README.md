@@ -6,3 +6,6 @@ When a vpn client connects, the use of the default vpn gateway is disabled and a
 
 ## auditUser.ps1
 User activity audit script. Tracks the inclusion, shutdown of the OS, login and logout of users in the OS.
+
+## ShutdownByTimer.bat
+Turning off the computer on a timer. Time is indicated in hours.
