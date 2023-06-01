@@ -9,3 +9,6 @@ User activity audit script. Tracks the inclusion, shutdown of the OS, login and 
 
 ## ShutdownByTimer.bat
 Turning off the computer on a timer. Time is indicated in hours.
+
+## VeeamBackup.ps1
+Script to backup virtual machines using vim. The script automates the creation of backups in Veeam Community Edition 9.0 and later.
