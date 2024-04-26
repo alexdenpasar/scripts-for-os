@@ -17,3 +17,10 @@ Backup file databases 1C.
 
 ## Email_Good_m.ps1 and Email_bad_d.ps1
 Sending an email with a script.
+
+## Disable_activesync_and_outlook_web_app.ps1
+Here is a PowerShell script that remotely disables ActiveSync and Outlook Web App services for a user in an enterprise domain network, using Kerberos authentication.
+You can save this script as Disable_activesync_and_outlook_web_app.ps1 and run it with the specified email address as an argument, like this: 
+
+.\Disable_activesync_and_outlook_web_app.ps1 "username@example.com"
+
